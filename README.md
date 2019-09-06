@@ -1,4 +1,5 @@
 # activity
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -32,3 +33,6 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+activity-demo
+>>>>>>> 0c6b9724e07bcaaa1a61ddcba5d55e048f0a7438
