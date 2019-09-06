@@ -1,38 +1,6 @@
-# activity
-<<<<<<< HEAD
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 activity-demo
->>>>>>> 0c6b9724e07bcaaa1a61ddcba5d55e048f0a7438
+a complete template
+
+v1 vue-cli@3.0
+v2 No UI framework is required
+
